@@ -1,21 +1,25 @@
-:root{
-   - -vermelho-fundo: #690606;
+:root{ -o-border-image: fill;
+   
 
 }
 body{
-    background-color: #
-
+    background-color: #661212;
+    color: #661212;
+    
 }
 *{
 
 
 }
 .principal{
-
-
+    background-image: url("./Rectangle\ 17.png");
+    background-repeat: no-repeat;
+    background-size: contain;   
+    text-align: justify;
 
 }
 .container{
-
-
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
 }
