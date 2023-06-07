@@ -5,11 +5,13 @@
 body{
     background-color: #661212;
     color: #661212;
-    
+    font-family: var(fonte-principal);
+    font: 50x;
+    font-weight: 400;
 }
 *{
-
-
+    margin: 0%;
+    padding: 0%;
 }
 .principal{
     background-image: url("./Rectangle\ 17.png");
