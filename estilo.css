@@ -3,8 +3,8 @@
 
 }
 body{
-    background-color: #661212;
-    color: #661212;
+    background-color: white;
+    color: #ffffff;
     font-family: var(fonte-principal);
     font: 50x;
     font-weight: 400;
@@ -14,7 +14,7 @@ body{
     padding: 0%;
 }
 .principal{
-    background-image: url("./Rectangle\ 17.png");
+    background-image: url("IMG\ ADVOCACIA");
     background-repeat: no-repeat;
     background-size: contain;   
     text-align: justify;
