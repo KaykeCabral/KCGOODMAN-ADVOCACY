@@ -1,10 +1,10 @@
 :root{ -o-border-image: fill;
-   
+    
 
 }
 body{
     background-color: white;
-    color: #ffffff;
+    color: #000000;
     font-family: var(fonte-principal);
     font: 50x;
     font-weight: 400;
